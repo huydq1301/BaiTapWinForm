@@ -1,0 +1,17 @@
+D:\source\repos\DoanQuocHuy_TH01\BaiTap3\BaiTap3\obj\Debug\net6.0-windows\BaiTap3.csproj.AssemblyReference.cache
+D:\source\repos\DoanQuocHuy_TH01\BaiTap3\BaiTap3\obj\Debug\net6.0-windows\BaiTap3.BaiTap3.resources
+D:\source\repos\DoanQuocHuy_TH01\BaiTap3\BaiTap3\obj\Debug\net6.0-windows\BaiTap3.csproj.GenerateResource.cache
+D:\source\repos\DoanQuocHuy_TH01\BaiTap3\BaiTap3\obj\Debug\net6.0-windows\BaiTap3.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DoanQuocHuy_TH01\BaiTap3\BaiTap3\obj\Debug\net6.0-windows\BaiTap3.AssemblyInfoInputs.cache
+D:\source\repos\DoanQuocHuy_TH01\BaiTap3\BaiTap3\obj\Debug\net6.0-windows\BaiTap3.AssemblyInfo.cs
+D:\source\repos\DoanQuocHuy_TH01\BaiTap3\BaiTap3\obj\Debug\net6.0-windows\BaiTap3.csproj.CoreCompileInputs.cache
+D:\source\repos\DoanQuocHuy_TH01\BaiTap3\BaiTap3\bin\Debug\net6.0-windows\BaiTap3.exe
+D:\source\repos\DoanQuocHuy_TH01\BaiTap3\BaiTap3\bin\Debug\net6.0-windows\BaiTap3.deps.json
+D:\source\repos\DoanQuocHuy_TH01\BaiTap3\BaiTap3\bin\Debug\net6.0-windows\BaiTap3.runtimeconfig.json
+D:\source\repos\DoanQuocHuy_TH01\BaiTap3\BaiTap3\bin\Debug\net6.0-windows\BaiTap3.dll
+D:\source\repos\DoanQuocHuy_TH01\BaiTap3\BaiTap3\bin\Debug\net6.0-windows\BaiTap3.pdb
+D:\source\repos\DoanQuocHuy_TH01\BaiTap3\BaiTap3\obj\Debug\net6.0-windows\BaiTap3.dll
+D:\source\repos\DoanQuocHuy_TH01\BaiTap3\BaiTap3\obj\Debug\net6.0-windows\refint\BaiTap3.dll
+D:\source\repos\DoanQuocHuy_TH01\BaiTap3\BaiTap3\obj\Debug\net6.0-windows\BaiTap3.pdb
+D:\source\repos\DoanQuocHuy_TH01\BaiTap3\BaiTap3\obj\Debug\net6.0-windows\BaiTap3.genruntimeconfig.cache
+D:\source\repos\DoanQuocHuy_TH01\BaiTap3\BaiTap3\obj\Debug\net6.0-windows\ref\BaiTap3.dll

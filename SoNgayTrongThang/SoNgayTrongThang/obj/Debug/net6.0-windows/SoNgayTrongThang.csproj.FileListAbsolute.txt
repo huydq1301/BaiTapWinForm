@@ -1,0 +1,17 @@
+D:\source\repos\SoNgayTrongThang\SoNgayTrongThang\bin\Debug\net6.0-windows\SoNgayTrongThang.exe
+D:\source\repos\SoNgayTrongThang\SoNgayTrongThang\bin\Debug\net6.0-windows\SoNgayTrongThang.deps.json
+D:\source\repos\SoNgayTrongThang\SoNgayTrongThang\bin\Debug\net6.0-windows\SoNgayTrongThang.runtimeconfig.json
+D:\source\repos\SoNgayTrongThang\SoNgayTrongThang\bin\Debug\net6.0-windows\SoNgayTrongThang.dll
+D:\source\repos\SoNgayTrongThang\SoNgayTrongThang\bin\Debug\net6.0-windows\SoNgayTrongThang.pdb
+D:\source\repos\SoNgayTrongThang\SoNgayTrongThang\obj\Debug\net6.0-windows\SoNgayTrongThang.csproj.AssemblyReference.cache
+D:\source\repos\SoNgayTrongThang\SoNgayTrongThang\obj\Debug\net6.0-windows\SoNgayTrongThang.Form1.resources
+D:\source\repos\SoNgayTrongThang\SoNgayTrongThang\obj\Debug\net6.0-windows\SoNgayTrongThang.csproj.GenerateResource.cache
+D:\source\repos\SoNgayTrongThang\SoNgayTrongThang\obj\Debug\net6.0-windows\SoNgayTrongThang.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\SoNgayTrongThang\SoNgayTrongThang\obj\Debug\net6.0-windows\SoNgayTrongThang.AssemblyInfoInputs.cache
+D:\source\repos\SoNgayTrongThang\SoNgayTrongThang\obj\Debug\net6.0-windows\SoNgayTrongThang.AssemblyInfo.cs
+D:\source\repos\SoNgayTrongThang\SoNgayTrongThang\obj\Debug\net6.0-windows\SoNgayTrongThang.csproj.CoreCompileInputs.cache
+D:\source\repos\SoNgayTrongThang\SoNgayTrongThang\obj\Debug\net6.0-windows\SoNgayTrongThang.dll
+D:\source\repos\SoNgayTrongThang\SoNgayTrongThang\obj\Debug\net6.0-windows\refint\SoNgayTrongThang.dll
+D:\source\repos\SoNgayTrongThang\SoNgayTrongThang\obj\Debug\net6.0-windows\SoNgayTrongThang.pdb
+D:\source\repos\SoNgayTrongThang\SoNgayTrongThang\obj\Debug\net6.0-windows\SoNgayTrongThang.genruntimeconfig.cache
+D:\source\repos\SoNgayTrongThang\SoNgayTrongThang\obj\Debug\net6.0-windows\ref\SoNgayTrongThang.dll

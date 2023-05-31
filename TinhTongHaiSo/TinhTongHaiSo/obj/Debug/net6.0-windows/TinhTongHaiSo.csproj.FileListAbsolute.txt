@@ -1,0 +1,17 @@
+D:\source\repos\TinhTongHaiSo\TinhTongHaiSo\obj\Debug\net6.0-windows\TinhTongHaiSo.csproj.AssemblyReference.cache
+D:\source\repos\TinhTongHaiSo\TinhTongHaiSo\obj\Debug\net6.0-windows\TinhTongHaiSo.Form1.resources
+D:\source\repos\TinhTongHaiSo\TinhTongHaiSo\obj\Debug\net6.0-windows\TinhTongHaiSo.csproj.GenerateResource.cache
+D:\source\repos\TinhTongHaiSo\TinhTongHaiSo\obj\Debug\net6.0-windows\TinhTongHaiSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\TinhTongHaiSo\TinhTongHaiSo\obj\Debug\net6.0-windows\TinhTongHaiSo.AssemblyInfoInputs.cache
+D:\source\repos\TinhTongHaiSo\TinhTongHaiSo\obj\Debug\net6.0-windows\TinhTongHaiSo.AssemblyInfo.cs
+D:\source\repos\TinhTongHaiSo\TinhTongHaiSo\obj\Debug\net6.0-windows\TinhTongHaiSo.csproj.CoreCompileInputs.cache
+D:\source\repos\TinhTongHaiSo\TinhTongHaiSo\bin\Debug\net6.0-windows\TinhTongHaiSo.exe
+D:\source\repos\TinhTongHaiSo\TinhTongHaiSo\bin\Debug\net6.0-windows\TinhTongHaiSo.deps.json
+D:\source\repos\TinhTongHaiSo\TinhTongHaiSo\bin\Debug\net6.0-windows\TinhTongHaiSo.runtimeconfig.json
+D:\source\repos\TinhTongHaiSo\TinhTongHaiSo\bin\Debug\net6.0-windows\TinhTongHaiSo.dll
+D:\source\repos\TinhTongHaiSo\TinhTongHaiSo\bin\Debug\net6.0-windows\TinhTongHaiSo.pdb
+D:\source\repos\TinhTongHaiSo\TinhTongHaiSo\obj\Debug\net6.0-windows\TinhTongHaiSo.dll
+D:\source\repos\TinhTongHaiSo\TinhTongHaiSo\obj\Debug\net6.0-windows\refint\TinhTongHaiSo.dll
+D:\source\repos\TinhTongHaiSo\TinhTongHaiSo\obj\Debug\net6.0-windows\TinhTongHaiSo.pdb
+D:\source\repos\TinhTongHaiSo\TinhTongHaiSo\obj\Debug\net6.0-windows\TinhTongHaiSo.genruntimeconfig.cache
+D:\source\repos\TinhTongHaiSo\TinhTongHaiSo\obj\Debug\net6.0-windows\ref\TinhTongHaiSo.dll

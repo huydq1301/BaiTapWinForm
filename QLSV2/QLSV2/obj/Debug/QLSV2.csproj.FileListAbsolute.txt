@@ -1,0 +1,8 @@
+D:\source\repos\QLSV2\QLSV2\obj\Debug\QLSV2.csproj.AssemblyReference.cache
+D:\source\repos\QLSV2\QLSV2\obj\Debug\QLSV2.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\QLSV2\QLSV2\obj\Debug\QLSV2.csproj.CoreCompileInputs.cache
+D:\source\repos\QLSV2\QLSV2\bin\Debug\QLSV2.exe.config
+D:\source\repos\QLSV2\QLSV2\bin\Debug\QLSV2.exe
+D:\source\repos\QLSV2\QLSV2\bin\Debug\QLSV2.pdb
+D:\source\repos\QLSV2\QLSV2\obj\Debug\QLSV2.exe
+D:\source\repos\QLSV2\QLSV2\obj\Debug\QLSV2.pdb

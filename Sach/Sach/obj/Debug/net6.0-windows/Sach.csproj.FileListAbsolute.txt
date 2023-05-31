@@ -1,0 +1,17 @@
+D:\source\repos\Sach\Sach\bin\Debug\net6.0-windows\Sach.exe
+D:\source\repos\Sach\Sach\bin\Debug\net6.0-windows\Sach.deps.json
+D:\source\repos\Sach\Sach\bin\Debug\net6.0-windows\Sach.runtimeconfig.json
+D:\source\repos\Sach\Sach\bin\Debug\net6.0-windows\Sach.dll
+D:\source\repos\Sach\Sach\bin\Debug\net6.0-windows\Sach.pdb
+D:\source\repos\Sach\Sach\obj\Debug\net6.0-windows\Sach.csproj.AssemblyReference.cache
+D:\source\repos\Sach\Sach\obj\Debug\net6.0-windows\Sach.Form1.resources
+D:\source\repos\Sach\Sach\obj\Debug\net6.0-windows\Sach.csproj.GenerateResource.cache
+D:\source\repos\Sach\Sach\obj\Debug\net6.0-windows\Sach.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Sach\Sach\obj\Debug\net6.0-windows\Sach.AssemblyInfoInputs.cache
+D:\source\repos\Sach\Sach\obj\Debug\net6.0-windows\Sach.AssemblyInfo.cs
+D:\source\repos\Sach\Sach\obj\Debug\net6.0-windows\Sach.csproj.CoreCompileInputs.cache
+D:\source\repos\Sach\Sach\obj\Debug\net6.0-windows\Sach.dll
+D:\source\repos\Sach\Sach\obj\Debug\net6.0-windows\refint\Sach.dll
+D:\source\repos\Sach\Sach\obj\Debug\net6.0-windows\Sach.pdb
+D:\source\repos\Sach\Sach\obj\Debug\net6.0-windows\Sach.genruntimeconfig.cache
+D:\source\repos\Sach\Sach\obj\Debug\net6.0-windows\ref\Sach.dll

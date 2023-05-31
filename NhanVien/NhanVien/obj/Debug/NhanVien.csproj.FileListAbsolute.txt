@@ -1,0 +1,8 @@
+D:\source\repos\NhanVien\NhanVien\obj\Debug\NhanVien.csproj.AssemblyReference.cache
+D:\source\repos\NhanVien\NhanVien\obj\Debug\NhanVien.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\NhanVien\NhanVien\obj\Debug\NhanVien.csproj.CoreCompileInputs.cache
+D:\source\repos\NhanVien\NhanVien\bin\Debug\NhanVien.exe.config
+D:\source\repos\NhanVien\NhanVien\bin\Debug\NhanVien.exe
+D:\source\repos\NhanVien\NhanVien\bin\Debug\NhanVien.pdb
+D:\source\repos\NhanVien\NhanVien\obj\Debug\NhanVien.exe
+D:\source\repos\NhanVien\NhanVien\obj\Debug\NhanVien.pdb

@@ -1,0 +1,17 @@
+D:\source\repos\DoiMauNen\DoiMauNen\bin\Debug\net6.0-windows\DoiMauNen.exe
+D:\source\repos\DoiMauNen\DoiMauNen\bin\Debug\net6.0-windows\DoiMauNen.deps.json
+D:\source\repos\DoiMauNen\DoiMauNen\bin\Debug\net6.0-windows\DoiMauNen.runtimeconfig.json
+D:\source\repos\DoiMauNen\DoiMauNen\bin\Debug\net6.0-windows\DoiMauNen.dll
+D:\source\repos\DoiMauNen\DoiMauNen\bin\Debug\net6.0-windows\DoiMauNen.pdb
+D:\source\repos\DoiMauNen\DoiMauNen\obj\Debug\net6.0-windows\DoiMauNen.csproj.AssemblyReference.cache
+D:\source\repos\DoiMauNen\DoiMauNen\obj\Debug\net6.0-windows\DoiMauNen.Form1.resources
+D:\source\repos\DoiMauNen\DoiMauNen\obj\Debug\net6.0-windows\DoiMauNen.csproj.GenerateResource.cache
+D:\source\repos\DoiMauNen\DoiMauNen\obj\Debug\net6.0-windows\DoiMauNen.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DoiMauNen\DoiMauNen\obj\Debug\net6.0-windows\DoiMauNen.AssemblyInfoInputs.cache
+D:\source\repos\DoiMauNen\DoiMauNen\obj\Debug\net6.0-windows\DoiMauNen.AssemblyInfo.cs
+D:\source\repos\DoiMauNen\DoiMauNen\obj\Debug\net6.0-windows\DoiMauNen.csproj.CoreCompileInputs.cache
+D:\source\repos\DoiMauNen\DoiMauNen\obj\Debug\net6.0-windows\DoiMauNen.dll
+D:\source\repos\DoiMauNen\DoiMauNen\obj\Debug\net6.0-windows\refint\DoiMauNen.dll
+D:\source\repos\DoiMauNen\DoiMauNen\obj\Debug\net6.0-windows\DoiMauNen.pdb
+D:\source\repos\DoiMauNen\DoiMauNen\obj\Debug\net6.0-windows\DoiMauNen.genruntimeconfig.cache
+D:\source\repos\DoiMauNen\DoiMauNen\obj\Debug\net6.0-windows\ref\DoiMauNen.dll

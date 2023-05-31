@@ -1,0 +1,17 @@
+D:\source\repos\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.csproj.AssemblyReference.cache
+D:\source\repos\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.Form1.resources
+D:\source\repos\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.csproj.GenerateResource.cache
+D:\source\repos\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.AssemblyInfoInputs.cache
+D:\source\repos\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.AssemblyInfo.cs
+D:\source\repos\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.csproj.CoreCompileInputs.cache
+D:\source\repos\TinhToanTrenDaySo\TinhToanTrenDaySo\bin\Debug\net6.0-windows\TinhToanTrenDaySo.exe
+D:\source\repos\TinhToanTrenDaySo\TinhToanTrenDaySo\bin\Debug\net6.0-windows\TinhToanTrenDaySo.deps.json
+D:\source\repos\TinhToanTrenDaySo\TinhToanTrenDaySo\bin\Debug\net6.0-windows\TinhToanTrenDaySo.runtimeconfig.json
+D:\source\repos\TinhToanTrenDaySo\TinhToanTrenDaySo\bin\Debug\net6.0-windows\TinhToanTrenDaySo.dll
+D:\source\repos\TinhToanTrenDaySo\TinhToanTrenDaySo\bin\Debug\net6.0-windows\TinhToanTrenDaySo.pdb
+D:\source\repos\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.dll
+D:\source\repos\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\refint\TinhToanTrenDaySo.dll
+D:\source\repos\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.pdb
+D:\source\repos\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.genruntimeconfig.cache
+D:\source\repos\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\ref\TinhToanTrenDaySo.dll

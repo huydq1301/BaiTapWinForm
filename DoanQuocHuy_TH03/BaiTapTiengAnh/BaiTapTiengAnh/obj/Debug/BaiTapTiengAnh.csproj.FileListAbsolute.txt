@@ -1,0 +1,12 @@
+D:\source\repos\DoanQuocHuy_TH03\BaiTapTiengAnh\BaiTapTiengAnh\bin\Debug\BaiTapTiengAnh.exe.config
+D:\source\repos\DoanQuocHuy_TH03\BaiTapTiengAnh\BaiTapTiengAnh\bin\Debug\BaiTapTiengAnh.exe
+D:\source\repos\DoanQuocHuy_TH03\BaiTapTiengAnh\BaiTapTiengAnh\bin\Debug\BaiTapTiengAnh.pdb
+D:\source\repos\DoanQuocHuy_TH03\BaiTapTiengAnh\BaiTapTiengAnh\obj\Debug\BaiTapTiengAnh.csproj.AssemblyReference.cache
+D:\source\repos\DoanQuocHuy_TH03\BaiTapTiengAnh\BaiTapTiengAnh\obj\Debug\BaiTapTiengAnh.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\DoanQuocHuy_TH03\BaiTapTiengAnh\BaiTapTiengAnh\obj\Debug\BaiTapTiengAnh.frmMain.resources
+D:\source\repos\DoanQuocHuy_TH03\BaiTapTiengAnh\BaiTapTiengAnh\obj\Debug\BaiTapTiengAnh.Properties.Resources.resources
+D:\source\repos\DoanQuocHuy_TH03\BaiTapTiengAnh\BaiTapTiengAnh\obj\Debug\BaiTapTiengAnh.csproj.GenerateResource.cache
+D:\source\repos\DoanQuocHuy_TH03\BaiTapTiengAnh\BaiTapTiengAnh\obj\Debug\BaiTapTiengAnh.csproj.CoreCompileInputs.cache
+D:\source\repos\DoanQuocHuy_TH03\BaiTapTiengAnh\BaiTapTiengAnh\obj\Debug\BaiTapTiengAnh.exe
+D:\source\repos\DoanQuocHuy_TH03\BaiTapTiengAnh\BaiTapTiengAnh\obj\Debug\BaiTapTiengAnh.pdb
+D:\source\repos\DoanQuocHuy_TH03\BaiTapTiengAnh\BaiTapTiengAnh\obj\Debug\BaiTapTiengAnh.frmDienTu.resources

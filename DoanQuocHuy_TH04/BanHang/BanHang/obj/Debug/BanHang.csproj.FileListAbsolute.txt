@@ -1,0 +1,11 @@
+D:\source\repos\DoanQuocHuy_TH04\BanHang\BanHang\bin\Debug\BanHang.exe.config
+D:\source\repos\DoanQuocHuy_TH04\BanHang\BanHang\bin\Debug\BanHang.exe
+D:\source\repos\DoanQuocHuy_TH04\BanHang\BanHang\bin\Debug\BanHang.pdb
+D:\source\repos\DoanQuocHuy_TH04\BanHang\BanHang\obj\Debug\BanHang.csproj.AssemblyReference.cache
+D:\source\repos\DoanQuocHuy_TH04\BanHang\BanHang\obj\Debug\BanHang.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\DoanQuocHuy_TH04\BanHang\BanHang\obj\Debug\BanHang.Form1.resources
+D:\source\repos\DoanQuocHuy_TH04\BanHang\BanHang\obj\Debug\BanHang.Properties.Resources.resources
+D:\source\repos\DoanQuocHuy_TH04\BanHang\BanHang\obj\Debug\BanHang.csproj.GenerateResource.cache
+D:\source\repos\DoanQuocHuy_TH04\BanHang\BanHang\obj\Debug\BanHang.csproj.CoreCompileInputs.cache
+D:\source\repos\DoanQuocHuy_TH04\BanHang\BanHang\obj\Debug\BanHang.exe
+D:\source\repos\DoanQuocHuy_TH04\BanHang\BanHang\obj\Debug\BanHang.pdb

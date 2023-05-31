@@ -1,0 +1,8 @@
+D:\source\repos\DoanQuocHuy_TH01\Bai1_2\Bai1_2\bin\Debug\Bai1_2.exe.config
+D:\source\repos\DoanQuocHuy_TH01\Bai1_2\Bai1_2\bin\Debug\Bai1_2.exe
+D:\source\repos\DoanQuocHuy_TH01\Bai1_2\Bai1_2\bin\Debug\Bai1_2.pdb
+D:\source\repos\DoanQuocHuy_TH01\Bai1_2\Bai1_2\obj\Debug\Bai1_2.csproj.AssemblyReference.cache
+D:\source\repos\DoanQuocHuy_TH01\Bai1_2\Bai1_2\obj\Debug\Bai1_2.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\DoanQuocHuy_TH01\Bai1_2\Bai1_2\obj\Debug\Bai1_2.csproj.CoreCompileInputs.cache
+D:\source\repos\DoanQuocHuy_TH01\Bai1_2\Bai1_2\obj\Debug\Bai1_2.exe
+D:\source\repos\DoanQuocHuy_TH01\Bai1_2\Bai1_2\obj\Debug\Bai1_2.pdb

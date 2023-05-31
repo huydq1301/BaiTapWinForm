@@ -1,0 +1,17 @@
+D:\source\repos\ChuongTrinhTinhToan\ChuongTrinhTinhToan\bin\Debug\net6.0-windows\ChuongTrinhTinhToan.exe
+D:\source\repos\ChuongTrinhTinhToan\ChuongTrinhTinhToan\bin\Debug\net6.0-windows\ChuongTrinhTinhToan.deps.json
+D:\source\repos\ChuongTrinhTinhToan\ChuongTrinhTinhToan\bin\Debug\net6.0-windows\ChuongTrinhTinhToan.runtimeconfig.json
+D:\source\repos\ChuongTrinhTinhToan\ChuongTrinhTinhToan\bin\Debug\net6.0-windows\ChuongTrinhTinhToan.dll
+D:\source\repos\ChuongTrinhTinhToan\ChuongTrinhTinhToan\bin\Debug\net6.0-windows\ChuongTrinhTinhToan.pdb
+D:\source\repos\ChuongTrinhTinhToan\ChuongTrinhTinhToan\obj\Debug\net6.0-windows\ChuongTrinhTinhToan.csproj.AssemblyReference.cache
+D:\source\repos\ChuongTrinhTinhToan\ChuongTrinhTinhToan\obj\Debug\net6.0-windows\ChuongTrinhTinhToan.Form1.resources
+D:\source\repos\ChuongTrinhTinhToan\ChuongTrinhTinhToan\obj\Debug\net6.0-windows\ChuongTrinhTinhToan.csproj.GenerateResource.cache
+D:\source\repos\ChuongTrinhTinhToan\ChuongTrinhTinhToan\obj\Debug\net6.0-windows\ChuongTrinhTinhToan.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\ChuongTrinhTinhToan\ChuongTrinhTinhToan\obj\Debug\net6.0-windows\ChuongTrinhTinhToan.AssemblyInfoInputs.cache
+D:\source\repos\ChuongTrinhTinhToan\ChuongTrinhTinhToan\obj\Debug\net6.0-windows\ChuongTrinhTinhToan.AssemblyInfo.cs
+D:\source\repos\ChuongTrinhTinhToan\ChuongTrinhTinhToan\obj\Debug\net6.0-windows\ChuongTrinhTinhToan.csproj.CoreCompileInputs.cache
+D:\source\repos\ChuongTrinhTinhToan\ChuongTrinhTinhToan\obj\Debug\net6.0-windows\ChuongTrinhTinhToan.dll
+D:\source\repos\ChuongTrinhTinhToan\ChuongTrinhTinhToan\obj\Debug\net6.0-windows\refint\ChuongTrinhTinhToan.dll
+D:\source\repos\ChuongTrinhTinhToan\ChuongTrinhTinhToan\obj\Debug\net6.0-windows\ChuongTrinhTinhToan.pdb
+D:\source\repos\ChuongTrinhTinhToan\ChuongTrinhTinhToan\obj\Debug\net6.0-windows\ChuongTrinhTinhToan.genruntimeconfig.cache
+D:\source\repos\ChuongTrinhTinhToan\ChuongTrinhTinhToan\obj\Debug\net6.0-windows\ref\ChuongTrinhTinhToan.dll

@@ -1,0 +1,11 @@
+D:\source\repos\DialogExmap\DialogExmap\obj\Debug\DialogExmap.csproj.AssemblyReference.cache
+D:\source\repos\DialogExmap\DialogExmap\obj\Debug\DialogExmap.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\DialogExmap\DialogExmap\obj\Debug\DialogExmap.Form1.resources
+D:\source\repos\DialogExmap\DialogExmap\obj\Debug\DialogExmap.Properties.Resources.resources
+D:\source\repos\DialogExmap\DialogExmap\obj\Debug\DialogExmap.csproj.GenerateResource.cache
+D:\source\repos\DialogExmap\DialogExmap\obj\Debug\DialogExmap.csproj.CoreCompileInputs.cache
+D:\source\repos\DialogExmap\DialogExmap\bin\Debug\DialogExmap.exe.config
+D:\source\repos\DialogExmap\DialogExmap\bin\Debug\DialogExmap.exe
+D:\source\repos\DialogExmap\DialogExmap\bin\Debug\DialogExmap.pdb
+D:\source\repos\DialogExmap\DialogExmap\obj\Debug\DialogExmap.exe
+D:\source\repos\DialogExmap\DialogExmap\obj\Debug\DialogExmap.pdb

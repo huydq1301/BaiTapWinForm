@@ -1,0 +1,8 @@
+D:\source\repos\Diem\Diem\bin\Debug\Diem.exe.config
+D:\source\repos\Diem\Diem\bin\Debug\Diem.exe
+D:\source\repos\Diem\Diem\bin\Debug\Diem.pdb
+D:\source\repos\Diem\Diem\obj\Debug\Diem.csproj.AssemblyReference.cache
+D:\source\repos\Diem\Diem\obj\Debug\Diem.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\Diem\Diem\obj\Debug\Diem.csproj.CoreCompileInputs.cache
+D:\source\repos\Diem\Diem\obj\Debug\Diem.exe
+D:\source\repos\Diem\Diem\obj\Debug\Diem.pdb

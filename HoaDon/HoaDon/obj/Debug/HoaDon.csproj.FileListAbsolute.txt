@@ -1,0 +1,11 @@
+D:\source\repos\HoaDon\HoaDon\bin\Debug\HoaDon.exe.config
+D:\source\repos\HoaDon\HoaDon\bin\Debug\HoaDon.exe
+D:\source\repos\HoaDon\HoaDon\bin\Debug\HoaDon.pdb
+D:\source\repos\HoaDon\HoaDon\obj\Debug\HoaDon.csproj.AssemblyReference.cache
+D:\source\repos\HoaDon\HoaDon\obj\Debug\HoaDon.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\HoaDon\HoaDon\obj\Debug\HoaDon.Form1.resources
+D:\source\repos\HoaDon\HoaDon\obj\Debug\HoaDon.Properties.Resources.resources
+D:\source\repos\HoaDon\HoaDon\obj\Debug\HoaDon.csproj.GenerateResource.cache
+D:\source\repos\HoaDon\HoaDon\obj\Debug\HoaDon.csproj.CoreCompileInputs.cache
+D:\source\repos\HoaDon\HoaDon\obj\Debug\HoaDon.exe
+D:\source\repos\HoaDon\HoaDon\obj\Debug\HoaDon.pdb

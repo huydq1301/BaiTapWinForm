@@ -1,0 +1,8 @@
+D:\source\repos\Mang\Mang\obj\Debug\Mang.csproj.AssemblyReference.cache
+D:\source\repos\Mang\Mang\obj\Debug\Mang.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\Mang\Mang\obj\Debug\Mang.csproj.CoreCompileInputs.cache
+D:\source\repos\Mang\Mang\bin\Debug\Mang.exe.config
+D:\source\repos\Mang\Mang\bin\Debug\Mang.exe
+D:\source\repos\Mang\Mang\bin\Debug\Mang.pdb
+D:\source\repos\Mang\Mang\obj\Debug\Mang.exe
+D:\source\repos\Mang\Mang\obj\Debug\Mang.pdb

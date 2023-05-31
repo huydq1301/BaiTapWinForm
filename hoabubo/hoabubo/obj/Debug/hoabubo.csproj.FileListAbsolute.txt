@@ -1,0 +1,11 @@
+D:\source\repos\hoabubo\hoabubo\bin\Debug\hoabubo.exe.config
+D:\source\repos\hoabubo\hoabubo\bin\Debug\hoabubo.exe
+D:\source\repos\hoabubo\hoabubo\bin\Debug\hoabubo.pdb
+D:\source\repos\hoabubo\hoabubo\obj\Debug\hoabubo.csproj.AssemblyReference.cache
+D:\source\repos\hoabubo\hoabubo\obj\Debug\hoabubo.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\hoabubo\hoabubo\obj\Debug\hoabubo.Form1.resources
+D:\source\repos\hoabubo\hoabubo\obj\Debug\hoabubo.Properties.Resources.resources
+D:\source\repos\hoabubo\hoabubo\obj\Debug\hoabubo.csproj.GenerateResource.cache
+D:\source\repos\hoabubo\hoabubo\obj\Debug\hoabubo.csproj.CoreCompileInputs.cache
+D:\source\repos\hoabubo\hoabubo\obj\Debug\hoabubo.exe
+D:\source\repos\hoabubo\hoabubo\obj\Debug\hoabubo.pdb

@@ -1,0 +1,11 @@
+D:\source\repos\dialog\dialog\obj\Debug\dialog.csproj.AssemblyReference.cache
+D:\source\repos\dialog\dialog\obj\Debug\dialog.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\dialog\dialog\obj\Debug\dialog.Form1.resources
+D:\source\repos\dialog\dialog\obj\Debug\dialog.Properties.Resources.resources
+D:\source\repos\dialog\dialog\obj\Debug\dialog.csproj.GenerateResource.cache
+D:\source\repos\dialog\dialog\obj\Debug\dialog.csproj.CoreCompileInputs.cache
+D:\source\repos\dialog\dialog\bin\Debug\dialog.exe.config
+D:\source\repos\dialog\dialog\bin\Debug\dialog.exe
+D:\source\repos\dialog\dialog\bin\Debug\dialog.pdb
+D:\source\repos\dialog\dialog\obj\Debug\dialog.exe
+D:\source\repos\dialog\dialog\obj\Debug\dialog.pdb

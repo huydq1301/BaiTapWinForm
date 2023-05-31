@@ -1,0 +1,17 @@
+D:\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\ProgramOfFont.exe
+D:\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\ProgramOfFont.deps.json
+D:\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\ProgramOfFont.runtimeconfig.json
+D:\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\ProgramOfFont.dll
+D:\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\ProgramOfFont.pdb
+D:\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ProgramOfFont.csproj.AssemblyReference.cache
+D:\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+D:\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ProgramOfFont.csproj.GenerateResource.cache
+D:\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ProgramOfFont.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ProgramOfFont.AssemblyInfoInputs.cache
+D:\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ProgramOfFont.AssemblyInfo.cs
+D:\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ProgramOfFont.csproj.CoreCompileInputs.cache
+D:\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ProgramOfFont.dll
+D:\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\ProgramOfFont.dll
+D:\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ProgramOfFont.pdb
+D:\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ProgramOfFont.genruntimeconfig.cache
+D:\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\ProgramOfFont.dll

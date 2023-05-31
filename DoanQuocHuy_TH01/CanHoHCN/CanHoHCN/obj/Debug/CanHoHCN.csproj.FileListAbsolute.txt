@@ -1,0 +1,8 @@
+D:\source\repos\TH01\CanHoHCN\CanHoHCN\bin\Debug\CanHoHCN.exe.config
+D:\source\repos\TH01\CanHoHCN\CanHoHCN\bin\Debug\CanHoHCN.exe
+D:\source\repos\TH01\CanHoHCN\CanHoHCN\bin\Debug\CanHoHCN.pdb
+D:\source\repos\TH01\CanHoHCN\CanHoHCN\obj\Debug\CanHoHCN.csproj.AssemblyReference.cache
+D:\source\repos\TH01\CanHoHCN\CanHoHCN\obj\Debug\CanHoHCN.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\TH01\CanHoHCN\CanHoHCN\obj\Debug\CanHoHCN.csproj.CoreCompileInputs.cache
+D:\source\repos\TH01\CanHoHCN\CanHoHCN\obj\Debug\CanHoHCN.exe
+D:\source\repos\TH01\CanHoHCN\CanHoHCN\obj\Debug\CanHoHCN.pdb

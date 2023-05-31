@@ -1,0 +1,11 @@
+D:\source\repos\DoanQuocHuy_TH01\BaiTap2\BaiTap2\obj\Debug\BaiTap2.csproj.AssemblyReference.cache
+D:\source\repos\DoanQuocHuy_TH01\BaiTap2\BaiTap2\obj\Debug\BaiTap2.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\DoanQuocHuy_TH01\BaiTap2\BaiTap2\obj\Debug\BaiTap2.Form1.resources
+D:\source\repos\DoanQuocHuy_TH01\BaiTap2\BaiTap2\obj\Debug\BaiTap2.Properties.Resources.resources
+D:\source\repos\DoanQuocHuy_TH01\BaiTap2\BaiTap2\obj\Debug\BaiTap2.csproj.GenerateResource.cache
+D:\source\repos\DoanQuocHuy_TH01\BaiTap2\BaiTap2\obj\Debug\BaiTap2.csproj.CoreCompileInputs.cache
+D:\source\repos\DoanQuocHuy_TH01\BaiTap2\BaiTap2\bin\Debug\BaiTap2.exe.config
+D:\source\repos\DoanQuocHuy_TH01\BaiTap2\BaiTap2\bin\Debug\BaiTap2.exe
+D:\source\repos\DoanQuocHuy_TH01\BaiTap2\BaiTap2\bin\Debug\BaiTap2.pdb
+D:\source\repos\DoanQuocHuy_TH01\BaiTap2\BaiTap2\obj\Debug\BaiTap2.exe
+D:\source\repos\DoanQuocHuy_TH01\BaiTap2\BaiTap2\obj\Debug\BaiTap2.pdb
